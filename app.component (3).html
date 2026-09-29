@@ -1,0 +1,20 @@
+<!-- src/app/app.component.html -->
+
+<!-- Heading of the app -->
+<h1>Simple Angular Routing App</h1>
+
+<!-- Navigation bar -->
+<nav>
+  <!-- Link to the Home route (empty path '') -->
+  <a routerLink="">Home</a> |
+
+  <!-- Link to the About route -->
+  <!-- 'routerLinkActive="active"' adds the 'active' CSS class when this route is active -->
+  <a routerLink="/about" routerLinkActive="active">About</a>
+</nav>
+
+<!-- Horizontal line separator -->
+<hr />
+
+<!-- This is where routed components will be displayed -->
+<router-outlet></router-outlet>
