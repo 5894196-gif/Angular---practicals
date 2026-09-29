@@ -4,12 +4,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | Kiran Shivaji Gawade |
-| **Roll Number** | SM1131 |
+| **Student Name** | abhishek ashok handore |
+| **Roll Number** | SM1133 |
 | **Class/Division** | M1 |
 | **Course/Subject** | Full Stack Development (Angular) |
-| **GitHub Username** | 5667965-png |
-| **Repository Link** | https://github.com/5667965-png/Angular-Practicals |
+| **GitHub Username** | 5894196-gif |
+| **Repository Link** | https://github.com/5894194-gif/Angular---practicals |
 
 ---
 
