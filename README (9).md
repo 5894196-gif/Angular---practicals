@@ -4,12 +4,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | abhishek ashok handore |
+| **Student Name** | Abhishek Ashok Handore |
 | **Roll Number** | SM1133 |
 | **Class/Division** | M1 |
 | **Course/Subject** | Full Stack Development (Angular) |
 | **GitHub Username** | 5894196-gif |
-| **Repository Link** | https://github.com/5894194-gif/Angular---practicals |
+| **Repository Link** | https://github.com/5894196-gif/Angular---practicals/blob/main/README%20(9).md |
 
 ---
 
